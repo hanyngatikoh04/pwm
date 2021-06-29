@@ -1,0 +1,36 @@
+{  
+  "theme_color": "#bd10e0",
+  "background_color": "#f63567",  
+  "display": "standalone",
+  "scope": "/",  
+  "start_url": "/index.html",  
+  "name": "Hany Personal Website",  
+  "short_name": "Hany Ngatikoh",  
+  "description": "Hany Personal Website",  
+  "icons": [
+      {
+          "src": "/assets/icons/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any maskable"        
+      },
+      {
+          "src": "/assets/icons/icon-256x256.png",
+          "sizes": "256x256",
+          "type": "image/png",
+          "purpose": "any maskable"                
+      },
+      {
+          "src": "/assets/icons/icon-384x384.png",
+          "sizes": "384x384",
+          "type": "image/png",
+          "purpose": "any maskable"        
+      },
+      {
+          "src": "/assets/icons/icon-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "any maskable"            
+      }
+  ]
+}
